@@ -1,6 +1,6 @@
-Название: Lagoona Hotels (Сеть отелей)
-Роль: верстальщик
-Инструменты: Chrome Devtools, Visual Studio Code
+Название: Lagoona Hotels (Сеть отелей).
+Роль: верстальщик.
+Инструменты: Chrome Devtools, Visual Studio Code.
 Для того, чтобы просмотреть проект с ПК, нужно выполнить следующие шаги:
   1. Найти нужный проект через окошко Search or jump to в левом верхнем углу;
   2. Открыть выбранный проект;
@@ -10,4 +10,3 @@
   6. Чтобы просмотреть HTML-версию сайта, нужно найти в папке файл с названием index.html.
 
 Ссылка на макет: https://www.figma.com/design/tjkkfkHDXlGscyVbS3emln/Lagoona?node-id=0-1
-2023
